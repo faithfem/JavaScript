@@ -1,0 +1,15 @@
+.photo-gallery {
+  /*background: rgb(255, 254, 217)*/
+  background: orange;
+    border: 20px groove purple;
+  padding: 50px
+}
+
+.photo{
+  height: 200px;
+  border: 20px groove blue;
+  margin: 20px,20px,20px,20px;
+  padding: 25px;
+  background: yellow;
+  
+}
