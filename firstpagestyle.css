@@ -1,0 +1,35 @@
+body{
+	color: black;
+	background-color: cyan;
+	font-family: Berlin Sans FB;
+}
+
+h2{
+	color: green;
+	background-color: purple;
+	font-family: Verdana;
+	border: 20px;
+}
+#favorite{
+	color: blue;
+	background-color: white;
+	font-family: Cambria;
+}
+.firstlist{
+	color: maroon;
+	background-color: white;
+	font-family: Cambria;
+	text-align: center;
+}
+
+a:link{
+color: red;
+}
+
+a:visited{
+color: orange;
+}
+
+a:hover{
+color: purple;
+{
