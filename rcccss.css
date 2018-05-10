@@ -1,0 +1,35 @@
+h1{
+	font-family: Verdana;
+	text-align: center;
+}
+
+
+div{
+	  position: relative;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%; /*50% is a circle*/
+  border: 20px solid black;
+  margin-left: 50px;
+  margin-top: 50px;
+  text-align: center;
+  font-family: verdana;
+  background-color: blue;
+}
+
+.dash{
+	border: 2px dashed;
+}
+
+.gr{
+color: green;
+background: yellow;
+}
+
+div p {
+  position: relative; /*moves writing to center of circle*/
+  margin-top: 40px;
+  font-size: 12px;
+  /*color: black;*/
+}

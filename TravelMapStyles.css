@@ -1,0 +1,51 @@
+body{
+	font-family: Helvetica, Arial;
+	font-size:9px;
+	
+}
+
+#map-wrapper{
+	
+	background:
+	url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Map_of_USA_without_state_names.svg/2000px-Map_of_USA_without_state_names.svg.png");
+	background-size:contain;
+	width:1024px;
+	height:634px;
+	margin: auto;
+	position: relative;
+}
+
+.picture{
+  background:#fff;
+  display:block;
+  float:left;
+  padding:.5%;
+  border:2px solid #000;
+  max-width:5%;
+  position:absolute;
+  transition: all .2s ease-in-out;
+  cursor:pointer;
+}
+
+.picture img{
+	display: block;
+	max-width:100%;
+	background: #ddd;
+}
+
+.picture-1{
+  left:4%;
+  top:3%;
+  transform: rotate(-15deg);
+}
+.picture-2{
+  left:42%;
+  top:14%;
+  transform: rotate(8deg);
+}
+
+.picture-3{
+  left:87%;
+  top:27%;
+  transform: rotate(15deg);
+}
