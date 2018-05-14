@@ -7,7 +7,8 @@ body{
 #map-wrapper{
 	
 	background:
-	url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Map_of_USA_without_state_names.svg/2000px-Map_of_USA_without_state_names.svg.png");
+	/*url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Map_of_USA_without_state_names.svg/2000px-Map_of_USA_without_state_names.svg.png");*/
+	url("http://www.travelstart.com.ng/blog/wp-content/uploads/2015/05/Cheshire.jpg");
 	background-size:contain;
 	width:1024px;
 	height:634px;
